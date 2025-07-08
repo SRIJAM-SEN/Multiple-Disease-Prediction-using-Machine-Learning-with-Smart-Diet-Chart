@@ -1,4 +1,3 @@
-Here's a well-structured and professional **README description** suitable for your GitHub repository:
 
 ---
 
@@ -35,4 +34,4 @@ Here's a well-structured and professional **README description** suitable for yo
 
 ---
 
-Let me know if you'd like me to include **setup instructions**, **model training details**, or **demo link**.
+
