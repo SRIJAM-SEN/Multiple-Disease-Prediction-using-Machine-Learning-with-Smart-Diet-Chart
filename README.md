@@ -24,7 +24,6 @@
 * **Frontend**: HTML, CSS, JavaScript
 * **Backend**: Python, Flask
 * **ML Libraries**: scikit-learn, pandas, NumPy
-* **Deployment**: (Optional - add if using Heroku, Render, etc.)
 
 ### 🚀 How It Works:
 
