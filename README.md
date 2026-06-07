@@ -34,7 +34,7 @@
 ## 📷 Application Screenshots
 
 ### 🏠 Home Page
-<img src="static/home.png" alt="Home Page" width="900">
+<img src="static/home.png" width="900">
 
 ### 🥗 Diseases Prediction Page
 <img src="static/diseaseprediction.png" width="900">
