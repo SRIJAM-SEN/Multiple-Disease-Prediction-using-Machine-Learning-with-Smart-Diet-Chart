@@ -40,7 +40,7 @@
 <img src="static/diseaseprediction.png" width="900">
 
 ### 📅 Smart Diet Chart
-<img src="Multiple Disease Prediction/static/nutrition.png" width="900">
+<img src="Multiple Diseases Prediction/static/nutrition.png" width="900">
 
 ---
 
