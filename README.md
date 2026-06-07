@@ -31,6 +31,17 @@
 2. Backend processes the data through relevant ML models.
 3. System provides disease prediction and appropriate dietary advice.
 
+## 📷 Application Screenshots
+
+### 🏠 Home Page
+<img src="static/home.png" width="900">
+
+### 🥗 Diseases Prediction Page
+<img src="static/diseaseprediction.png" width="900">
+
+### 📅 Smart Diet Chart
+<img src="static/nutrition.png" width="900">
+
 ---
 
 
