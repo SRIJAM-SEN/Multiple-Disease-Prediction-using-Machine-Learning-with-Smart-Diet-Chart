@@ -34,10 +34,10 @@
 ## 📷 Application Screenshots
 
 ### 🏠 Home Page
-<img src="static/home.png" width="900">
+<img src="Multiple Diseases Prediction/static/home.png" width="900">
 
 ### 🥗 Diseases Prediction Page
-<img src="static/diseaseprediction.png" width="900">
+<img src="Multiple Diseases Prediction/static/diseaseprediction.png" width="900">
 
 ### 📅 Smart Diet Chart
 <img src="Multiple Diseases Prediction/static/nutrition.png" width="900">
